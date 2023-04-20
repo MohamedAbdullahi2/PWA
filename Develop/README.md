@@ -42,10 +42,13 @@ IndexedDB for database storage
 
 ![image](https://user-images.githubusercontent.com/118404373/233241682-094d4ab6-72f5-4dc7-90ad-b3bd55352a31.png)
 
+Service worker using Workbox for offline access and caching of static assets
 
 ![image](https://user-images.githubusercontent.com/118404373/233241766-a408e65f-4cd9-492b-afce-f16956480ca0.png)
 
 ![image](https://user-images.githubusercontent.com/118404373/233241847-ac74f2cd-6eea-46db-a520-7eb0f2c33d37.png)
+
+Installable as a desktop icon
 
 <img width="471" alt="image" src="https://user-images.githubusercontent.com/118404373/233241435-72f33a4f-9d0f-4de5-8554-a85e4ba472b5.png">
 
