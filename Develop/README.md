@@ -52,22 +52,12 @@ Installable as a desktop icon
 
 <img width="471" alt="image" src="https://user-images.githubusercontent.com/118404373/233241435-72f33a4f-9d0f-4de5-8554-a85e4ba472b5.png">
 
+# Deploment URLs 
 
-![Uploading image.png…]()
+The URL of the GitHub repository is
 
+# License
 
+This project is licensed under the terms of the MIT license.
 
-# Features
-
-
-
-Bundled JavaScript files using webpack
-
-Generated HTML file, service worker, and manifest file using webpack plugins
-
-
-
-Service worker using Workbox for offline access and caching of static assets
-
-Installable as a desktop icon
 
