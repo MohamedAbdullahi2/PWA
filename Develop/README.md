@@ -32,20 +32,29 @@ This application will use the following npm packages:-
 
 
 # MOCK UP 
-![image](https://user-images.githubusercontent.com/118404373/233240734-643a9efb-84a2-440e-a681-4ea2977b351f.png)
 
-![image](https://user-images.githubusercontent.com/118404373/233240794-2da00122-27fe-4383-8cfa-5de945bf9908.png)
+Client-server folder structure
 
-![image](https://user-images.githubusercontent.com/118404373/233240838-99859e15-1462-43ec-b9af-e4785092329d.png)
+<img width="200" alt="image" src="https://user-images.githubusercontent.com/118404373/233242106-ee592182-542d-4287-9822-054418cdafdd.png">
+<img width="170" alt="image" src="https://user-images.githubusercontent.com/118404373/233242215-91edc0a9-9e15-4438-a347-3b434f0fe946.png">
+
+
+![image](https://user-images.githubusercontent.com/118404373/233241682-094d4ab6-72f5-4dc7-90ad-b3bd55352a31.png)
+
+![image](https://user-images.githubusercontent.com/118404373/233241766-a408e65f-4cd9-492b-afce-f16956480ca0.png)
+
+![image](https://user-images.githubusercontent.com/118404373/233241847-ac74f2cd-6eea-46db-a520-7eb0f2c33d37.png)
 
 <img width="471" alt="image" src="https://user-images.githubusercontent.com/118404373/233241435-72f33a4f-9d0f-4de5-8554-a85e4ba472b5.png">
 
 
+![Uploading image.png…]()
 
 
 
 # Features
-Client-server folder structure
+
+
 
 Bundled JavaScript files using webpack
 
