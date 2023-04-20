@@ -3,18 +3,6 @@
 
 This text editor that allows users to create notes or code snippets with or without an internet connection. The application is designed to work reliably offline by using an integrated service worker and Cache API's, ensuring that users can access their notes even when offline. The application also allows users to access visited pages even when offline.
 
-# Table of Contents
-
-Installation
-
-Usage
-
-Built With
-
-Contributing
-
-License
-
 
 # Installation
 
@@ -52,7 +40,7 @@ Installable as a desktop icon
 
 <img width="471" alt="image" src="https://user-images.githubusercontent.com/118404373/233241435-72f33a4f-9d0f-4de5-8554-a85e4ba472b5.png">
 
-# Deploment URLs 
+# Deployment URLs 
 
 
 The URL of the GitHub repository is https://github.com/MohamedAbdullahi2/PWA.git
