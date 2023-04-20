@@ -1,5 +1,5 @@
 
-# Text Editor Web Application
+# Project Name : - Text Editor Web Application
 
 This text editor that allows users to create notes or code snippets with or without an internet connection. The application is designed to work reliably offline by using an integrated service worker and Cache API's, ensuring that users can access their notes even when offline. The application also allows users to access visited pages even when offline.
 
