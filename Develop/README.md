@@ -38,8 +38,10 @@ Client-server folder structure
 <img width="200" alt="image" src="https://user-images.githubusercontent.com/118404373/233242106-ee592182-542d-4287-9822-054418cdafdd.png">
 <img width="170" alt="image" src="https://user-images.githubusercontent.com/118404373/233242215-91edc0a9-9e15-4438-a347-3b434f0fe946.png">
 
+IndexedDB for database storage
 
 ![image](https://user-images.githubusercontent.com/118404373/233241682-094d4ab6-72f5-4dc7-90ad-b3bd55352a31.png)
+
 
 ![image](https://user-images.githubusercontent.com/118404373/233241766-a408e65f-4cd9-492b-afce-f16956480ca0.png)
 
@@ -60,7 +62,7 @@ Bundled JavaScript files using webpack
 
 Generated HTML file, service worker, and manifest file using webpack plugins
 
-IndexedDB for database storage
+
 
 Service worker using Workbox for offline access and caching of static assets
 
