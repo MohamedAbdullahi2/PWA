@@ -54,7 +54,10 @@ Installable as a desktop icon
 
 # Deploment URLs 
 
-The URL of the GitHub repository is
+
+The URL of the GitHub repository is https://github.com/MohamedAbdullahi2/PWA.git
+
+🚀The application has been deployed to Heroku URL :-
 
 # License
 
