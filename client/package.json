@@ -2,7 +2,7 @@
   "name": "JATE",
   "version": "1.0.0",
   "engines": {
-    "node": "18"
+    "node": "v18.13.0"
   },
   "scripts": {
     "dev": "webpack-dev-server",
