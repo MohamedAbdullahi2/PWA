@@ -20,5 +20,8 @@
   "homepage": "https://github.com/MohamedAbdullahi2/PWA#readme",
   "dependencies": {
     "webpack": "^5.81.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^5.0.2"
   }
 }
