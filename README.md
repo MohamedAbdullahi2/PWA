@@ -50,8 +50,7 @@ The URL of the GitHub repository is https://github.com/MohamedAbdullahi2/PWA.git
 # License
 
 This project is licensed under the terms of the MIT license.
-<<<<<<< HEAD
 
 
-=======
->>>>>>> c439caae044be51616053c9d213138453d3ebff9
+
+
