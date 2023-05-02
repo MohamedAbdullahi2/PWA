@@ -2,8 +2,7 @@
   "name": "develop",
   "version": "1.0.0",
   "engines": {
-    "node": "^18.13.0"
-  },
+    "node": "^18.13.0"},
   "description": "This text editor that allows users to create notes or code snippets with or without an internet connection. The application is designed to work reliably offline by using an integrated service worker and Cache API's, ensuring that users can access their notes even when offline. The application also allows users to access visited pages even when offline.",
   "main": "index.js",
   "scripts": {
@@ -22,10 +21,9 @@
   },
   "homepage": "https://github.com/MohamedAbdullahi2/PWA#readme",
   "dependencies": {
-    "html-webpack-plugin": "^5.5.1",
-    "webpack": "^5.81.0",
-    "webpack-cli": "^5.0.2",
-    "webpack-pwa-manifest": "^4.3.0",
-    "workbox-webpack-plugin": "^6.5.4"
+    "webpack": "^5.81.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^5.0.2"
   }
 }
