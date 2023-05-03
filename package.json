@@ -1,27 +1,29 @@
 {
-  "name": "develop",
+  "name": "JATE",
   "version": "1.0.0",
-  "description": "This text editor that allows users to create notes or code snippets with or without an internet connection. The application is designed to work reliably offline by using an integrated service worker and Cache API's, ensuring that users can access their notes even when offline. The application also allows users to access visited pages even when offline.",
-  "main": "index.js",
+  "description": "",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:dev": "concurrently \"cd server && npm run server\" \"cd client && npm run dev\"",
+    "start": "npm run build && cd server && node server.js",
+    "server": "cd server nodemon server.js --ignore client",
     "build": "cd client && npm run build",
-    "start": "npm run build && cd server && node server.js"
+    "install": "cd server && npm i && cd ../client && npm i",
+    "client": "cd client && npm start"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/MohamedAbdullahi2/PWA.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/MohamedAbdullahi2/PWA/issues"
-  },
-  "homepage": "https://github.com/MohamedAbdullahi2/PWA#readme",
   "dependencies": {
-    "webpack": "^5.81.0"
+    "express": "^4.17.1"
   },
   "devDependencies": {
-    "webpack-cli": "^5.0.2"
+    "concurrently": "^5.2.0",
+    "nodemon": "^2.0.4"
   }
 }
+
+
+
+
+
+
+
+
+
